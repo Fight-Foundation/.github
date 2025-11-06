@@ -23,7 +23,7 @@ To build an open, decentralized framework that:
 |-------------|--------------|-------------|
 | [**Assets**](https://github.com/Fight-Foundation/Assets) | Static assets for CDN distribution | Public |
 | [**Whitepaper**](https://github.com/Fight-Foundation/Whitepaper) | Ecosystem whitepaper and related documents | Public |
-| **FP-contract** | Smart contracts for Fight Points and staking pools | Private |
+| [**FP-contract**](https://github.com/Fight-Foundation/FP-contract) | Smart contracts for Fight Points and staking pools | Public |
 | **token** | Core token implementation and treasury management | Private |
 
 More repositories will be opened progressively as audits and documentation are completed.
